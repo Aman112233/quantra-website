@@ -1,0 +1,30 @@
+QUANTRA LTD — SITE CONTENT
+
+TAGLINE
+We handle your online presence so you don't have to.
+
+ABOUT
+Quantra Ltd is a small digital agency helping businesses grow online.
+We build websites and manage social media for small and medium businesses.
+Our team combines technical and creative backgrounds to deliver work that looks good and actually performs.
+
+SERVICES
+1. Website Design & Development — We build fast, modern websites tailored to your business from scratch.
+2. Website Revamp — Already have a site? We redesign and improve it to convert more visitors.
+3. Social Media Management — We run your Instagram, TikTok, and Facebook so you stay consistent and visible.
+4. Social Media Setup — Starting fresh? We create and brand your profiles the right way from day one.
+
+CONTACT
+WhatsApp: [+966536237621]
+Email: [amanahmed894@gmail.com]
+
+COLORS
+Background: #F8F7F4
+Primary: #0F1F3D
+Accent: #4F7EFF
+Text: #2C2C2C
+Section alt: #EDECEA
+
+FONTS
+Headings: Syne
+Body: DM Sans
