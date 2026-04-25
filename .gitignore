@@ -1,0 +1,12 @@
+# Claude Code internals
+.claude/
+
+# Obsidian vault
+Quantra Website/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
