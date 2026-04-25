@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRESS.md",
+                "file": "ABOUT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROGRESS"
+              "title": "ABOUT"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "7bc49427a329b548",
   "lastOpenFiles": [
-    "DEVLOG.md",
+    "SERVICES.md",
+    "README.md",
     "PROGRESS.md",
+    "NAVBAR.md",
+    "FOOTER.md",
+    "DEVLOG.md",
+    "CONTACT.md",
+    "ABOUT.md",
+    "content.txt",
+    "HERO.md",
     "Welcome.md"
   ]
 }
