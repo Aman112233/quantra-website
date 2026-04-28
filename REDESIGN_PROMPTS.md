@@ -114,7 +114,7 @@ Requirements:
 ---
 
 ## Step 6 — Contact Section (Dark Form & WhatsApp Card)
-**Status:** [ ] Complete
+**Status:** [x] Complete
 
 Redesign the contact section in index.html and css/style.css.
 
