@@ -95,7 +95,7 @@ Requirements:
 ---
 
 ## Step 5 — About Section (Dark Layout with Trust Card)
-**Status:** [ ] Complete
+**Status:** [x] Complete
 
 Redesign the about section in index.html and css/style.css.
 
