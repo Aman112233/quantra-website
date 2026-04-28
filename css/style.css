@@ -735,7 +735,7 @@ body {
 
 /* ── Footer ── */
 .footer {
-  background-color: var(--bg-card);
+  background-color: #070710;
   border-top: 1px solid var(--border);
   padding: 60px 0 40px;
 }
@@ -758,8 +758,12 @@ body {
   font-family: var(--font-heading);
   font-weight: 700;
   font-size: 1.4rem;
-  color: var(--primary);
+  color: #ffffff;
   margin-bottom: 0.85rem;
+}
+
+.footer__logo-accent {
+  color: var(--accent);
 }
 
 .footer__tagline {
@@ -786,26 +790,26 @@ body {
 
 .footer__links a {
   font-size: 0.95rem;
-  color: var(--text);
+  color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
 .footer__links a:hover {
-  color: var(--accent);
+  color: #ffffff;
 }
 
 .footer__email {
   display: block;
   font-size: 0.95rem;
-  color: var(--text);
+  color: var(--accent);
   text-decoration: none;
   margin-bottom: 0.4rem;
   transition: color 0.2s ease;
 }
 
 .footer__email:hover {
-  color: var(--accent);
+  color: #ffffff;
 }
 
 .footer__reply-note {
@@ -835,7 +839,7 @@ body {
 }
 
 .footer__social-btn:hover {
-  background-color: #3a68e8;
+  background-color: rgba(79, 126, 255, 0.8);
   transform: translateY(-2px);
 }
 
@@ -847,7 +851,7 @@ body {
 .footer__copy {
   text-align: center;
   font-size: 0.82rem;
-  color: var(--text-muted);
+  color: rgba(255, 255, 255, 0.25);
 }
 
 @media (max-width: 768px) {
