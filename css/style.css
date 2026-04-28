@@ -592,9 +592,9 @@ body {
 }
 
 .form-group label {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 500;
-  color: var(--text);
+  color: var(--text-muted);
 }
 
 .form-group input,
@@ -603,7 +603,7 @@ body {
   padding: 0.85rem 1rem;
   border: 1px solid var(--border);
   border-radius: 8px;
-  background-color: var(--bg-card);
+  background: rgba(255, 255, 255, 0.04);
   font-family: var(--font-body);
   font-size: 0.97rem;
   color: var(--text);
@@ -620,7 +620,7 @@ body {
 .form-group textarea:focus {
   outline: none;
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(79, 126, 255, 0.12);
+  box-shadow: 0 0 0 3px rgba(79, 126, 255, 0.15);
 }
 
 .btn--full {
@@ -630,8 +630,8 @@ body {
 
 /* WhatsApp card */
 .contact__whatsapp {
-  background-color: var(--bg-card);
-  border: 1px solid var(--border);
+  background: linear-gradient(145deg, #0d1f0d, #0a1a0a);
+  border: 1px solid rgba(37, 211, 102, 0.2);
   border-radius: 16px;
   padding: 2.5rem 2rem;
   display: flex;
