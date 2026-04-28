@@ -141,7 +141,7 @@ Requirements:
 ---
 
 ## Step 7 — Footer (Consistency Update)
-**Status:** [ ] Complete
+**Status:** [x] Complete
 
 Update the footer in index.html and css/style.css to match the new dark theme.
 
