@@ -73,7 +73,7 @@ Requirements:
 ---
 
 ## Step 4 — Services Section (Dark Cards with Glow)
-**Status:** [ ] Complete
+**Status:** [x] Complete
 
 Redesign the services section in index.html and css/style.css.
 
