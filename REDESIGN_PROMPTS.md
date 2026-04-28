@@ -162,7 +162,7 @@ Do not change the HTML structure — CSS updates only.
 ---
 
 ## Step 8 — Final Polish & Consistency Pass
-**Status:** [ ] Complete
+**Status:** [x] Complete
 
 Do a full consistency and polish pass on the Quantra website (index.html + css/style.css):
 
