@@ -10,3 +10,9 @@ desktop.ini
 
 # VS Code
 .vscode/
+
+# Claude project instructions
+CLAUDE.md
+
+# Obsidian vault state (any location)
+**/.obsidian/
